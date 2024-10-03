@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png)
 <h1 align="center">Hi 👋, I'm Muhammad Usama</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt = "Coding"/>
